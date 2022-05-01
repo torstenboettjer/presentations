@@ -190,10 +190,11 @@
 			// - https://revealjs.com/initialization/
 			// - https://revealjs.com/config/
 			Reveal.initialize({
+				controls: false,
+				loop: true,
 				hash: true,
 				transition: 'convex', // default/cube/page/concave/convex/zoom/linear/fade/none
 				transitionSpeed: 'slow',
-				loop: true,
 				// Learn about plugins: https://revealjs.com/plugins/
 				plugins: [ RevealMarkdown, RevealHighlight, RevealNotes, RevealZoom ]
 			});
