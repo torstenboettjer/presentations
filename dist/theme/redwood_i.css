@@ -34,7 +34,7 @@ html * {
  * GLOBAL STYLES
  *********************************************/
 :root {
-  --r-background-color: #e9e1ca;
+  --r-background-color: #fff;
   --r-main-font: Noto Sans, sans-serif;
   --r-main-font-size: 40px;
   --r-main-color: #312d2a;
@@ -352,6 +352,23 @@ html * {
 .reveal a:hover .r-frame {
   border-color: var(--r-link-color);
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.55);
+}
+
+/*********************************************
+ * LOGO
+ *********************************************/
+.reveal .logo {
+	position: fixed;
+	display: block;
+	right: 40px;
+	top: 1px;
+	z-index: 31;
+  width: 60px;   
+  height: 60px;
+  background-image: url("https://objectstorage.eu-frankfurt-1.oraclecloud.com/p/ghb55OWxw9Px5ifU8cWNVQN33IJwOuUvjEh3JzQcciVrpIxCoUGmDtszsBg7_4_G/n/tboettjer/b/brand_assets/o/logos/tag_rgb.png");
+  background-size: 60px;
+  background-position: 0% 100%;
+  background-repeat: no-repeat;
 }
 
 /*********************************************
