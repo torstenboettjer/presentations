@@ -20,7 +20,7 @@
 		<link rel="stylesheet" href="dist/theme/redwood_i.css" id="theme">
 
 		<!-- Theme used for syntax highlighted code -->
-		<link rel="stylesheet" href="plugin/highlight/monokai.css">
+		<link rel="stylesheet" href="plugin/highlight/monokai.css" id="highlight-theme">
 	</head>
 	<body>
 		<div class="reveal">
@@ -216,7 +216,7 @@
 				transition: 'convex', // default/cube/page/concave/convex/zoom/linear/fade/none
 				transitionSpeed: 'slow',
 
-				// ...
+				// Configure the presentation menu
 
 				menu: {
 					// Specifies which side of the presentation the menu will
@@ -231,7 +231,7 @@
 
 					// Add slide numbers to the titles in the slide list.
 					// Use 'true' or format string (same as reveal.js slide numbers)
-					numbers: true,
+					numbers: false,
 
 					// Specifies which slide elements will be used for generating
 					// the slide titles in the menu. The default selects the first
@@ -258,33 +258,38 @@
 					// Specify custom panels to be included in the menu, by
 					// providing an array of objects with 'title', 'icon'
 					// properties, and either a 'src' or 'content' property.
-					custom: false,
+					custom: [
+						{
+						title: 'Custom',
+						icon: '<i class="fa fa-bookmark">',
+						src: 'links.html'
+						}
+					],
 
 					// Specifies the themes that will be available in the themes
 					// menu panel. Set to 'true' to show the themes menu panel
 					// with the default themes list. Alternatively, provide an
 					// array to specify the themes to make available in the
 					// themes menu panel, for example...
-					//
 					// [
-					//     { name: 'Black', theme: 'dist/theme/black.css' },
-					//     { name: 'White', theme: 'dist/theme/white.css' },
-					//     { name: 'League', theme: 'dist/theme/league.css' },
-					//     {
-					//       name: 'Dark',
-					//       theme: 'lib/reveal.js/dist/theme/black.css',
-					//       highlightTheme: 'lib/reveal.js/plugin/highlight/monokai.css'
-					//     },
-					//     {
-					//       name: 'Code: Zenburn',
-					//       highlightTheme: 'lib/reveal.js/plugin/highlight/zenburn.css'
-					//     }
+					//      { name: 'Black', theme: 'dist/theme/black.css' },
+					//      { name: 'White', theme: 'dist/theme/white.css' },
+					//      { name: 'League', theme: 'dist/theme/league.css' },
+					//      {
+					//        name: 'Dark',
+					//        theme: 'lib/reveal.js/dist/theme/black.css',
+					//        highlightTheme: 'lib/reveal.js/plugin/highlight/monokai.css'
+					//      },
+					//      {
+					//        name: 'Code: Zenburn',
+					//        highlightTheme: 'lib/reveal.js/plugin/highlight/zenburn.css'
+					//      }
 					// ]
-					//
+					
 					// Note: specifying highlightTheme without a theme will
 					// change the code highlight theme while leaving the
 					// presentation theme unchanged.
-					themes: false,
+					themes: true,
 
 					// Specifies the path to the default theme files. If your
 					// presentation uses a different path to the standard reveal
@@ -348,6 +353,7 @@
 				// Learn about plugins: https://revealjs.com/plugins/
 				plugins: [ RevealMarkdown, RevealHighlight, RevealMenu, RevealNotes, RevealZoom ]
 			});
+
 		</script>
 	</body>
 </html>

@@ -360,8 +360,8 @@ html * {
 .reveal .logo {
 	position: fixed;
 	display: block;
-	right: 40px;
-	top: 1px;
+	right: 75px;
+	bottom: 3px;
 	z-index: 31;
   width: 60px;   
   height: 60px;
