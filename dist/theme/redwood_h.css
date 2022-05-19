@@ -35,12 +35,12 @@ html * {
  *********************************************/
 :root {
   --r-background-color: #e9e1ca;
-  --r-main-font: Noto Sans, sans-serif;
+  --r-main-font: "Oracle Sans", "Noto Sans Arabic", "Noto Sans Arabic UI", -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
   --r-main-font-size: 40px;
   --r-main-color: #312d2a;
   --r-block-margin: 20px;
   --r-heading-margin: 0 0 20px 0;
-  --r-heading-font: Oracle Sans, sans-serif;
+  --r-heading-font: "Georgia", "Times", "Garamond", "Noto Sans Arabic", "Noto Sans Arabic UI", "Noto Sans Hebrew", sans-serif;
   --r-heading-color: #161513;
   --r-heading-line-height: 1.2;
   --r-heading-letter-spacing: normal;

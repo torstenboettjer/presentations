@@ -30,12 +30,12 @@ section.has-light-background, section.has-light-background h1, section.has-light
  *********************************************/
 :root {
   --r-background-color: #312d2a;
-  --r-main-font: Oracle Sans, Noto Sans, sans-serif;
+  --r-main-font: "Oracle Sans", "Noto Sans Arabic", "Noto Sans Arabic UI", -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
   --r-main-font-size: 40px;
   --r-main-color: #eee;
   --r-block-margin: 20px;
   --r-heading-margin: 0 0 20px 0;
-  --r-heading-font: Oracle Sans, Noto Sans, sans-serif;
+  --r-heading-font: "Georgia", "Times", "Garamond", "Noto Sans Arabic", "Noto Sans Arabic UI", "Noto Sans Hebrew", sans-serif;
   --r-heading-color: #eee;
   --r-heading-line-height: 1.2;
   --r-heading-letter-spacing: -0.03em;
@@ -347,6 +347,23 @@ section.has-light-background, section.has-light-background h1, section.has-light
 .reveal a:hover .r-frame {
   border-color: var(--r-link-color);
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.55);
+}
+
+/*********************************************
+ * LOGO
+ *********************************************/
+.reveal .logo {
+	position: fixed;
+	display: block;
+	right: 75px;
+	bottom: 3px;
+	z-index: 31;
+  width: 60px;   
+  height: 60px;
+  background-image: url("https://objectstorage.eu-frankfurt-1.oraclecloud.com/p/ghb55OWxw9Px5ifU8cWNVQN33IJwOuUvjEh3JzQcciVrpIxCoUGmDtszsBg7_4_G/n/tboettjer/b/brand_assets/o/logos/tag_rgb.png");
+  background-size: 60px;
+  background-position: 0% 100%;
+  background-repeat: no-repeat;
 }
 
 /*********************************************
