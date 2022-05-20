@@ -16,10 +16,10 @@ How To Use The Demo
 
 ---
 
-Germön Überschrift
-------------------
+Text Formating
+--------------
 
-That's it.  Pretty simple.  There's also a drop-down option in the upper right to switch between various views:
+Switch between various views:
 
 - **Preview:**  A live display of the generated HTML as it would render in a browser.
 - **HTML Source:**  The generated HTML before your browser makes it pretty.
