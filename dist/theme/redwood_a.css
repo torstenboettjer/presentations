@@ -97,18 +97,22 @@ section.has-light-background, section.has-light-background h1, section.has-light
 
 .reveal h1 {
   font-size: var(--r-heading1-size);
+  text-align: left;
 }
 
 .reveal h2 {
   font-size: var(--r-heading2-size);
+  text-align: left;
 }
 
 .reveal h3 {
   font-size: var(--r-heading3-size);
+  text-align: left;
 }
 
 .reveal h4 {
   font-size: var(--r-heading4-size);
+  text-align: left;
 }
 
 .reveal h1 {
@@ -161,18 +165,22 @@ section.has-light-background, section.has-light-background h1, section.has-light
 
 .reveal ol {
   list-style-type: decimal;
+  text-align: left;
 }
 
 .reveal ul {
   list-style-type: disc;
+  text-align: left;
 }
 
 .reveal ul ul {
   list-style-type: square;
+  text-align: left;
 }
 
 .reveal ul ul ul {
   list-style-type: circle;
+  text-align: left;
 }
 
 .reveal ul ul,
