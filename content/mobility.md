@@ -1,26 +1,10 @@
-### Slide 1
-
-- Point 1
-- Point 2
-
----
-
-### Slide 2
-
-Regular Text
-
----
-
-### Slide 3
-
-> This is a quote
-
----
-
 Marked - Markdown Parser
 ========================
 
 [Marked] lets you convert [Markdown] into HTML.  Markdown is a simple text format whose goal is to be very easy to read and write, even when not converted to HTML.  This demo page will let you type anything you like and see how it gets converted.  Live.  No more waiting around.
+
+[Marked]: https://github.com/markedjs/marked/
+[Markdown]: http://daringfireball.net/projects/markdown/
 
 ---
 
@@ -57,5 +41,4 @@ It's easy.  It's not overly bloated, unlike HTML.  Also, as the creator of [mark
 Ready to start writing?  Either start changing stuff on the left or
 [clear everything](/demo/?text=) with a simple click.
 
-[Marked]: https://github.com/markedjs/marked/
 [Markdown]: http://daringfireball.net/projects/markdown/
