@@ -185,6 +185,7 @@ section.has-light-background, section.has-light-background h1, section.has-light
 .reveal ol ul {
   display: block;
   margin-left: 40px;
+  text-align: left;
 }
 
 .reveal dt {
