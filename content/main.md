@@ -1,5 +1,4 @@
-Markdown Parser
-========================
+# Markdown Parser
 
 [Marked] lets you convert [Markdown] into HTML.  Markdown is a simple text format whose goal is to be very easy to read and write, even when not converted to HTML.  This demo page will let you type anything you like and see how it gets converted.  Live.  No more waiting around.
 
@@ -8,8 +7,7 @@ Markdown Parser
 
 ---
 
-How To Use The Demo
--------------------
+## How To Use The Demo
 
 1. Type in stuff on the left.
 2. See the live updates on the right.
@@ -17,8 +15,7 @@ How To Use The Demo
 
 ---
 
-Text Formating
---------------
+## Text Formating
 
 Switch between various views:
 
@@ -31,8 +28,7 @@ Switch between various views:
 
 ---
 
-Why Markdown?
--------------
+## Why Markdown?
 
 It's easy.  It's not overly bloated, unlike HTML.  Also, as the creator of [markdown] says,
 
