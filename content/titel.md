@@ -1,4 +1,4 @@
-## How To Use The Demo
+## Torsten Böttjer
 
-1. Type in stuff on the left.
-2. See the live updates on the right.
+Oracle Deutschland
+Head of Cloud Engineering
