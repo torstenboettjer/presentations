@@ -1,4 +1,5 @@
-# Markdown Parser
+## Markdown Parser
+### Sub-Headline
 
 [Marked] lets you convert [Markdown] into HTML.  Markdown is a simple text format whose goal is to be very easy to read and write, even when not converted to HTML.  This demo page will let you type anything you like and see how it gets converted.  Live.  No more waiting around.
 
@@ -8,6 +9,7 @@
 ---
 
 ## How To Use The Demo
+### Sub-Headline
 
 1. Type in stuff on the left.
 2. See the live updates on the right.
@@ -16,6 +18,7 @@
 ---
 
 ## Text Formating
+### Sub-Headline
 
 Switch between various views:
 
@@ -29,6 +32,7 @@ Switch between various views:
 ---
 
 ## Why Markdown?
+### Sub-Headline
 
 It's easy.  It's not overly bloated, unlike HTML.  Also, as the creator of [markdown] says,
 
