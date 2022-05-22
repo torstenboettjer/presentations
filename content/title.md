@@ -4,7 +4,8 @@ Title goes here (up to two lines)
 Subhead goes here on one line
 ------------------
 
-Name<br>
-Presenter’s Title<br>
-Organization, Division or Business Unit<br>
+Name
+
+Presenter’s Title
+Organization, Division or Business Unit
 Month 00, 2019
