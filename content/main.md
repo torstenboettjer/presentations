@@ -11,8 +11,8 @@
 ## How To Use The Demo
 #### Sub-Headline
 
-1. Type in stuff on the left.
-2. See the live updates on the right.
+1. Type in stuff on the left. <!-- .element: class="fragment" -->
+2. See the live updates on the right. <!-- .element: class="fragment" -->
 
 ---
 
