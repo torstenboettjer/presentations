@@ -1,11 +1,3 @@
-<!-- .slide: data-background-iframe="backgrounds/title_a.html" -->
-## Torsten Böttjer
-#### Oracle Deutschland
-
-Head of Cloud Engineering
-
----
-
 ## Markdown Parser
 #### Sub-Headline
 
