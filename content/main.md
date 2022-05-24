@@ -14,7 +14,6 @@
 1. Type in stuff on the left. <!-- .element: class="fragment" -->
 2. See the live updates on the right. <!-- .element: class="fragment" -->
 
-
 ---
 
 ## Text Formating
@@ -28,6 +27,7 @@ Switch between various views:
 - **Quick Reference:**  A brief run-down of how to format things using markdown.
 
 [Marked]: https://github.com/markedjs/marked/
+
 
 ---
 
