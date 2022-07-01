@@ -6,7 +6,7 @@
 
 ---
 
-## Principles of Production Readiness
+## Production Readiness
 
 - Stability and Reliability
 - Scalability and Performance
