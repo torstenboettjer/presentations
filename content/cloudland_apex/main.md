@@ -7,3 +7,11 @@ Before we begin ...
 - We cover both, the APEX-UI and ORDS 
 
 ---
+
+## Principles of Production Readiness
+
+- Stability and Reliability
+- Scalability and Performance
+- Fault Tolerance and Disaster Recovery
+- Monitoring & Security
+- Documentation
