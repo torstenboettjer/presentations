@@ -28,7 +28,6 @@ Switch between various views:
 
 [Marked]: https://github.com/markedjs/marked/
 
-
 ---
 
 ## Why Markdown?
