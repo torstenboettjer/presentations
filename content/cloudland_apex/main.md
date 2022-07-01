@@ -13,3 +13,10 @@
 - Fault Tolerance and Disaster Recovery
 - Monitoring & Security
 - Documentation
+
+---
+
+## I'm interested!
+
+If you want to hear more about the CloudBuilder Project, sign up:
+https://mailchi.mp/36535d247b14/cloudbuilder
