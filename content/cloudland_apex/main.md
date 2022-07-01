@@ -1,6 +1,4 @@
-## Disclaimer
-
-Before we begin ...
+## Before we begin ...
 
 - This session is about deployment automation, not about the database
 - We will look at actual code, Terraform experience is helpful
