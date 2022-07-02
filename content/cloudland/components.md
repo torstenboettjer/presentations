@@ -14,12 +14,11 @@
 
 ---
 
-## Audience Analytics with Matomo
+## Analytics with Matomo
 
 - Community Version of Piwik
 - Private Hosting is free
 - Community Version without Consent Management
-
 
 ---
 
