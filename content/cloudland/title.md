@@ -1,5 +1,5 @@
-## WebSites that conform with GDPR Regulations
-### Address Privacy Requirements with Hosted-Private Service on Oracle Cloud Infrastructure (OCI)
+## WebSites that conform with the GDPR
+### Address Privacy Regulations with **Hosted-Private Services** on Oracle Cloud Infrastructure (OCI)
   
 **Torsten Böttjer**  
 Head of Cloud Engineering  
