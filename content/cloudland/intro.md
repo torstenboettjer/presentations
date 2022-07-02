@@ -1,15 +1,5 @@
-## Before we begin ...
+## Why it has become illegal to impose widely used Analytics Services on WebSites in Germany
 
-- The session is about deployment automation, not about databases
-- Our focus is on System, hence "APEX" includes ORDS (UI vs API)
-- We look at actual code, Terraform experience is helpful
+With the [Schrems II](https://curia.europa.eu/juris/documents.jsf?num=C-311/18) ruling published on 16 July 2020, the Court of Justice of the European Union (CJEU) removed a legal framework by which transfers of person related data to the US were possible. The court left it to the national authorities to check whether other mechanisms were workable, but raised the concern that the US intelligence legislation is disproportionate and that the remedies very likely remain insufficient. 
 
----
-
-## Production Readiness
-
-- Stability and Reliability
-- Scalability and Performance
-- Fault Tolerance and Disaster Recovery
-- Monitoring & Security
-- Documentation
+As first German court, the [Verwaltungsgericht Wiesbaden](https://rsw.beck.de/aktuell/daily/meldung/detail/vg-wiesbaden-einbindung-von-cookie-dienst-mit-datenverarbeitung-in-den-usa-unzulaessig) concluded that the use of cookies stored on server under US authority are not inline with the data privacy regulations. Companies that do not replace tools that transfer data to the U.S. without specific and prior consent are at risk of being sanctioned in the case of an inspection by a DPA. 

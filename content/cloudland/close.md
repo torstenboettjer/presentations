@@ -1,4 +1,4 @@
-## Introducing the CloudBuilder Initiative
+## CloudBuilder Initiative
 
 Rebuilding existing services to address european privacy regulations raises an important question: while hyperscaler start to replace private data centre, is the "Infrastructure as Code (IaC)" toolset actually able to build compliant cloud services efficiently?
 
