@@ -1,6 +1,10 @@
-## Base Architecture
+## Data Facade (GraphQL)
 
 ![BaseArchitecture](content/img/base_architecture.drawio.png)
+
+- Fast and Dirty: Atom Server Project
+- Resource Optimized: GO with gqlgen
+- Compromise: Hasura
 
 ---
 ## JAMStack
@@ -32,11 +36,3 @@
 - Community Version of Piwik
 - Private Hosting is free
 - Community Version without Consent Management
-
----
-
-## Data Facade (GraphQL)
-
-- Fast and Dirty: Atom Server Project
-- Resource Optimized: GO with gqlgen
-- Compromise: Hasura
