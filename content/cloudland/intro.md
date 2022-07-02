@@ -1,4 +1,4 @@
-## Reconsider Architectural Components for Public WebSites
+## Reconsider Components for Public WebSites
 
 With the [Schrems II](https://curia.europa.eu/juris/documents.jsf?num=C-311/18) ruling published on 16 July 2020, the Court of Justice of the European Union (CJEU) removed a legal framework by which transfers of person related data to the US were possible. The court left it to the national authorities to check whether other mechanisms were workable, but raised the concern that the US intelligence legislation is disproportionate and that the remedies very likely remain insufficient. 
 

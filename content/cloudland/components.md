@@ -2,15 +2,15 @@
 
 ![BaseArchitecture](content/img/base_architecture.drawio.png)
 
-- Fast and Dirty: Atom Server Project
-- Resource Optimized: GO with gqlgen
-- Compromise: Hasura
+- Atom Server Project
+- Hasura
+- GO with GQLGEN
 
 ---
 ## JAMStack
 
 - NextJS
-- Gatsbay
+- Gatsby
 - ...
 
 ---
