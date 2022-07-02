@@ -1,3 +1,8 @@
+## Base Architecture
+
+![BaseArchitecture](content/img/base_architecture.drawio.png)
+
+---
 ## JAMStack
 
 - NextJS
