@@ -1,5 +1,5 @@
-## APEX mit wenigen Mausklicks 
-### Automatisiertes Deployment mit Terraform in OCI
+## GDPR conform WebSites with OCI 
+### Address Privacy Requirements with Hosted-Private Cloud Services
   
 **Torsten Böttjer**  
 Head of Cloud Engineering  
