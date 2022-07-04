@@ -8,7 +8,7 @@ A few engineers working for various cloud providers have gathered and launched a
 
 ---
 
-## Tell me More !
+## Stay Tuned!
 
 Sign up for the **CloudBuilder** newsletter:
 
