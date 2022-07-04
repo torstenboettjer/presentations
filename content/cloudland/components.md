@@ -2,24 +2,25 @@
 
 ![BaseArchitecture](content/img/base_architecture.drawio.png)
 
-- Atom Server Project
-- Hasura
-- GO with GQLGEN
+Options
+- Atom Server Project (Functionality)
+- Hasura (Data)
+- GO with GQLGEN (Performance)
 
 ---
 ## JAMStack
 
-- NextJS
-- Gatsby
+- NextJS (Dynamic)
+- Gatsby (Static)
 - ...
 
 ---
 
 ## Content API
 
-- Oracle Content
-- Strapi
-- Payload
+- Oracle Content (Operations)
+- Strapi (Compliance)
+- Payload (CI/CD)
 
 ---
 
@@ -33,6 +34,6 @@
 
 ## Consent Management
 
-- Community Version of Piwik
-- Private Hosting is free
-- Community Version without Consent Management
+- [CookieYes](https://www.cookieyes.com/) - Service
+- [Klaro](https://github.com/kiprotect/klaro) - OpenSource
+- [Pryv](https://github.com/pryv/open-pryv.io) - Commercially maintained open source
